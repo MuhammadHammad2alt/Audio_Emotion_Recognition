@@ -183,8 +183,14 @@ The model was evaluated using:
 The project automatically generates:
 
 - Accuracy Graph
+  <img width="419" height="263" alt="image" src="https://github.com/user-attachments/assets/3bb7ddfe-d4e4-4bad-8b20-85aec1b6a8b0" />
+
 - Loss Graph
+  <img width="600" height="377" alt="image" src="https://github.com/user-attachments/assets/ebd56741-d00a-48b2-94a5-2825a13db3da" />
+
 - Confusion Matrix
+  <img width="587" height="438" alt="image" src="https://github.com/user-attachments/assets/6fa0fc1a-83c0-4e6c-9cff-df5fcb0897cb" />
+
 - Trained CNN Model
 - Saved Scaler
 - Live Audio Recording
