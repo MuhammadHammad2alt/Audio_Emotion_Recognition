@@ -183,7 +183,7 @@ The model was evaluated using:
 The project automatically generates:
 
 - Accuracy Graph
-  <img width="350" height="22o" alt="image" src="https://github.com/user-attachments/assets/3bb7ddfe-d4e4-4bad-8b20-85aec1b6a8b0" />
+  <img width="350" height="220" alt="image" src="https://github.com/user-attachments/assets/3bb7ddfe-d4e4-4bad-8b20-85aec1b6a8b0" />
 
 - Loss Graph
   <img width="400" height="220" alt="image" src="https://github.com/user-attachments/assets/ebd56741-d00a-48b2-94a5-2825a13db3da" />
